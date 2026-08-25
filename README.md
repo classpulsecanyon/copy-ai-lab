@@ -34,4 +34,4 @@ No extra dependencies — download and run.
 ## How to use it
 - [ ] Grab the latest build from the releases section above.
 - [ ] Decompress the package to your chosen location on disk.
-- [ ] Start the application and configure your initial preferences.                
+- [ ] Start the application and configure your initial preferences.                 
